@@ -45,10 +45,17 @@ h6 {
     padding-bottom: 20%;
 }
 
+.intro-message > .lavendar-icon {
+		margin: 0 auto 30px auto;
+    background: url(../img/icon.png);
+		width: 200px;
+		height: 179px;
+}
+
 .intro-message > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 5em;
+    font-size: 3em;
 }
 
 .intro-divider {
